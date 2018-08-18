@@ -1,23 +1,19 @@
-# REPOsitory.XvBMC
+# REPOsitory.XvTry
  
-**NOTE:** XvBMC Nederland (xbmc nl) wij zijn géén helpdesk van/voor boxverkopers
- 
+**NOTE:** XvTry (xbmc us) I am not a help desk for / for box vendors 
   
    
-### XvBMC_Nederland: 
-* https://bit.ly/XvBMC-NL 
-* https://www.fb.com/groups/XvBMCnederland/ 
- 
-### OFFLINE / AFGESLOTEN / SHUTDOWN / DOWN: 
- 
-Op last van Stichting BREIN wordt 'XvBMC Repository' niet langer aangeboden, omdat middels deze repository op grote schaal films, tv-series en muziek zonder toestemming ter beschikking werden gesteld. Het aldus ter beschikking stellen aan het publiek van auteursrechterlijk beschermde werken maakt inbreuk op de auteursrechten en naburige rechten van de rechthebbenden op die werken. Ook het streamen uit ongeautoriseerde bron is verboden in Nederland. 'XvBMC Repository' is met Stichting BREIN tot een schikking gekomen. Voor aanbieders van legale content verwijst 'XvBMC Repository' u naar thecontenmap.nl en film.nl
- 
+### XvTry_USA: 
+* HTTPS LINK
+* HTTPS LINK
+
+This is an attempt to creat a repository and is not recommended for use by anyone
 ----------
   
 *With kind regards,*
  
-*Team X(v)BMC Nederland*
+*Team X(v)Try USA*
   
 ----------
   
-(c) [XvBMC Nederland](https://bit.ly/XvBMC-NL) (r)
+(c) HTTPS LINK (r)
